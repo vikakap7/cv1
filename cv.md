@@ -27,3 +27,18 @@ I am a motivated junior developer eager to start my career in IT. My goal is to 
 **Level:** Intermediate (B1)
 
 I read technical documentation in English and watch IT conferences. I am actively working on improving my spoken English.
+
+## Code Example
+
+#include <iostream>
+
+int factorial(int n) {
+    if (n <= 1) return 1;
+    return n * factorial(n - 1);
+}
+
+int main() {
+    int num = 5;
+    std::cout << "Factorial of " << num << " is " << factorial(num) << std::endl;
+    return 0;
+}
