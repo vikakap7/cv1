@@ -42,3 +42,19 @@ int main() {
     std::cout << "Factorial of " << num << " is " << factorial(num) << std::endl;
     return 0;
 }
+
+
+
+## Work Experience
+
+I am currently at the beginning of my professional journey. However, I actively:
+
+- Complete educational projects on my own
+- Participate in university hackathons
+- Study modern web development technologies
+
+I am looking for an internship or junior developer position where I can apply my knowledge, learn from experienced colleagues, and grow as a specialist.
+
+## My CV online
+
+[View my CV on GitHub Pages](https://vikakap7.github.io/cv/cv)
